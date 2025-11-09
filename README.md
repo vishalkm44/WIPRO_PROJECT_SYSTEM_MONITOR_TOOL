@@ -1,8 +1,8 @@
 # System Monitor Tool (C++)
 
-A lightweight System Monitor written in C++17 that displays real-time information about running processes, memory usage, and CPU load — similar to the Linux 'top' command.
+A lightweight System Monitor written in C++17 that displays real-time information about running processes, memory usage, and CPU load - similar to the Linux 'top' command.
 
-This project was built progressively over 5 days, adding one key feature each day — from basic system stats to real-time process monitoring with interactive controls.
+This project was built progressively over 5 days, adding one key feature each day - from basic system stats to real-time process monitoring with interactive controls.
 
 ------------------------------------------------------------
 Features
